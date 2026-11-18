@@ -1,0 +1,11 @@
+# OS / 编辑器杂项
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*~
+
+# 插件运行日志与临时文件（榜单正文与订阅清单要提交，不要忽略）
+*.log
+*.tmp
+.dsh-trending-tmp/
